@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Dr. Sunil Kumar Jangir. I am working as an Associate Professor in the Department of Computer Science and Engineering, Chandigarh University,Punjab,India.
+Dr. Sunil Kumar Jangir. I am working as an Associate Professor in the Department of Computer Science and Engineering, Chandigarh University,Punjab,India.
 
 Skills: Machine Learning/Soft Computing/Design and Analysis of Algorithms/Computer Networks
 
