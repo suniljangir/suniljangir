@@ -1,5 +1,5 @@
 ## Hi there 👋
-Dr. Sunil Kumar Jangir. I am working as an Associate Professor in the Department of Computer Science and Engineering, Chandigarh University,Punjab,India.
+Dr. Sunil Kumar Jangir. I am working as Senior Manager - Project & Process at Wisflux Tech Labs, Jaipur, Rajasthan,India.
 
 Skills: Machine Learning/Soft Computing/Design and Analysis of Algorithms/Computer Networks
 
