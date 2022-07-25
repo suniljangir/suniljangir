@@ -1,7 +1,7 @@
 ## Hi there 👋
 Dr. Sunil Kumar Jangir. I am working as Senior Manager - Project & Process at Wisflux Tech Labs, Jaipur, Rajasthan,India.
 
-Skills: Machine Learning/Soft Computing/Design and Analysis of Algorithms/Computer Networks
+Skills: Certified Scrum Master | Agile Practitioner | Project Management | Process Management | Engineering Manager
 
 ![](https://media-exp1.licdn.com/dms/image/C5616AQGi58gWhOFJfQ/profile-displaybackgroundimage-shrink_350_1400/0/1517791659498?e=1612396800&v=beta&t=5JEy8_kU4aO8cxPvJYYV9dpWJtAqCjPRJr8GtCOLpTI)
 
