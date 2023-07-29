@@ -1,5 +1,10 @@
 ## Hi there 👋
-Dr. Sunil Kumar Jangir. I am working as Senior Manager - Project & Process at Wisflux Tech Labs, Jaipur, Rajasthan,India.
+Dr. Sunil Kumar Jangir. I am working as Senior Manager - Projects & Process, Agile Practitioner| Certified Scrum Master® | People Person at Wisflux Tech Labs, Jaipur, Rajasthan,India.
+
+AboutAbout
+Hello Everyone 😊✌️
+My name is Dr. Sunil Kumar Jangir, an Academician who transformed into a Project Manager.
+An energetic, dedicated person with good communication & Interpersonal Skills and leadership qualities to motivate people to achieve organizational objectives. I am a People Person, Produced by Jangir Family and Directed by Team Wisflux ✨😊✌️
 
 Skills: Certified Scrum Master | Agile Practitioner | Project Management | Process Management | Engineering Manager
 
